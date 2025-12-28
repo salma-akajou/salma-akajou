@@ -73,7 +73,9 @@ I’m constantly growing as a developer by building projects and exploring new t
 
 ## 📬 Contact Me
 [![Email](https://img.shields.io/badge/Email-salmaakagou1%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salmaakagou1@gmail.com)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Salma%20Akajou-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salma-akajou-a14aa233a/)
+
 [![Discord](https://img.shields.io/badge/Discord-Salma_akajou-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Salma_akajou)
 
 ---
