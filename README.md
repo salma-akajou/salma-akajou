@@ -1,4 +1,5 @@
-# Salma Akajou | Building Clean & Interactive Web Applications 💻✨
+# Hello 🌿, I'm Salma 
+## Building Clean & Interactive Web Applications 💻✨
 
 
 Transforming ideas into elegant web solutions, experimenting with new technologies daily, and building projects that make a difference.
@@ -14,7 +15,7 @@ From concept to deployment, I enjoy **crafting seamless experiences** and **solv
 ## 🚀 Skills in Action
 I’m constantly growing as a developer by building projects and exploring new tools:  
 - Crafting **robust back-end solutions** with Laravel & PHP  
-- Creating **dynamic and interactive front-ends** with React & Redux  
+- Creating **dynamic and interactive front-ends** with React & Javascript 
 - Managing **databases efficiently** with MySQL
 
 
